@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"ئۆسۈملۈكلەر "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+<declare-styleable name="Gallary">
+        <attr name="android:galleryItemBackground"/>
+    </declare-styleable>
+    
+<string name="sound">ئاۋازنى ئېچىش-تاقاش</string>
+   
+    <string name="about">توغرىسىدا</string>
+    <string name="stop">توختىتىش</string>
+    <string name="play">قويۇش</string>
+    <string name="back">قايتىش</string>
+  
+    <string name="version">نەشرى 0.1</string>
+    <string name="close">تاقاش</string>
+    <string name="app_info">ئەپ ھەققىدە</string>
+	<string name="app_name_en">Plants</string>
+	<string name="app_name_cn">植物</string>
+	<string name="app_info_content">بۇ مەخسۇس كىچىك بالىلارنىڭ ئۆسۈملۈكلەرنى تۇنىۋېلىشى ئۈچۈن لايىھەلەنگەن ئەپ بولۇپ، ئۇيغۇرچە قوللايدىغان ئاندرويىد سېستىمېلىق ئۈسكۈنىلەردە نورمال ئىشلەيدۇ.</string>
+	<string name="version_new">بۇ نەشىردىكى يېڭىلىقلار:</string>
+	<string name="version_new_content">ھەرخىل چوڭلۇقتىكى ئۈسكۈنىلەرگە ماسلاشتۇرۇلدى.\nئەپ ئۇچۇرى كۆزنىكى يېڭىلاندى.</string>
+	<string name="copyright">ئاپتورلۇق ھوقۇقى باياناتى:</string>
+	<string name="copyright_content">بۇ بىر ھەقسىز دېتال. رۇخسەتسىز سودىغا ئىشلىتىشكە بولمايدۇ. ئاپتورلۇق ھوقۇقى بىلكان ئېلېكتىرون پەن- تېخنىكا شىركىتىگە تەئەللۇق!</string>
+	<string name="copyright_content_en">Copyright 2011 BILKAN.   All Rights Reserved.\nwww.bilkan.net</string>
+    
+<color name="backcolor">#ff0000</color>
+</resources>

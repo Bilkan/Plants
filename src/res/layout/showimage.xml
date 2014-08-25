@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/widget_absolutelayout"
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent">
+    
+	<ImageSwitcher 
+		android:id="@+id/imageswitcher" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+	
+	</ImageSwitcher>
+	
+	<RelativeLayout 
+	    android:id="@+id/RelativeLayout01" 
+		android:layout_width="fill_parent"
+	 	android:background="@drawable/jaza" 
+	 	android:layout_height="fill_parent">
+
+		<TextView
+		    android:id="@+id/plantsName"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentBottom="true"
+		 
+		    android:layout_alignParentRight="true"
+		    android:textColor="#ff0000" 
+		android:textStyle="normal|bold" 
+		android:background="#40D1EEEE"
+		    android:paddingLeft="10dp"
+		    android:paddingRight="10dp"
+		    android:textSize="30sp" />
+
+	</RelativeLayout>
+	
+</RelativeLayout>
